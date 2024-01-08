@@ -1,6 +1,3 @@
-Sure, writing a GitHub README is an essential part of your project to provide information, instructions, and context for users and contributors. Below is a basic template for a machine learning project README on GitHub:
-
-```markdown
 # Customer Churn Prediction
 
 ## Overview
@@ -20,7 +17,7 @@ This repository contains code and resources for predicting customer churn in a b
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/customer-churn-prediction.git
+   git clone https://github.com/arnabsaha7/customer-churn-prediction.git
    cd customer-churn-prediction
    ```
 
